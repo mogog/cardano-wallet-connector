@@ -1,3 +1,12 @@
+<!-- #Netlify env setting
+
+key: CI             val: false
+key: NODE_OPTIONS   val: --max_old_space_size=8192
+
+npm run build
+
+######## -->
+
 # Cardano DApp Wallet Connector
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
